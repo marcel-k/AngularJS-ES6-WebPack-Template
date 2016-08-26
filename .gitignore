@@ -1,0 +1,11 @@
+.tmp
+.project
+.DS_Store
+.sass-cache
+node_modules
+bower_components
+.log
+npm-debug.log
+coverage
+www/assets/
+typings/
